@@ -5,3 +5,5 @@ a small collection of ImageJ macros I find useful
 * https://github.com/swharden/Microscopy
 * https://github.com/swharden/ImageJ-Python-plugin
 * https://github.com/swharden/micro-manager-plugins
+
+## TODO: rename repo to `ImageJ-tools`
